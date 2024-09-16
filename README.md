@@ -11,8 +11,8 @@
 
 Где скачать
 следует скачать oldwave_12-pc_fin.tar
-#скачать с Terabox       --  https://terabox.com/s/18U3eDKuxasesC_lBZcEA2w
-#скачать с google disck  --  https://drive.google.com/file/d/1dRvTTIsJBIq-IVE49-hm2cLhNGqNDJS0/view?usp=sharing            
+## скачать с Terabox         https://terabox.com/s/18U3eDKuxasesC_lBZcEA2w
+## скачать с google disck    https://drive.google.com/file/d/1dRvTTIsJBIq-IVE49-hm2cLhNGqNDJS0/view?usp=sharing            
 
 Дистрибутив модульный.
 За создание модулей отвечает утилита--- p-ow-apt2sb
